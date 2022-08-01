@@ -8,7 +8,7 @@
 
 # Setup
 
-    Run `docker-compose up` to start the container
+    docker-compose up
     
 # API
 
